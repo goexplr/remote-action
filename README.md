@@ -1,2 +1,2 @@
 # remote-action
-Perform action on remote server
+Perform actions on remote server
